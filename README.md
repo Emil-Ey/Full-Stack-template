@@ -1,3 +1,3 @@
 # Full-Stack-template
 
-Template to start creating a full-stack web-application with GraphQL, TypeScript, React, PostgresQL, Redis, Node, TypeOrm, Urql and Express.
+Template to start creating server-side of a web-application with GraphQL, TypeScript, PostgresQL, Redis, TypeOrm, Express.
